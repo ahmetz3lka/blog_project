@@ -12,6 +12,10 @@
   --border-radius: 10px;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 body {
   font-family: 'Poppins', sans-serif;
   color: var(--black);
