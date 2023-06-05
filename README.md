@@ -10,6 +10,6 @@ npm app.js
 yarn app.js
 ```
 
-Open [http://localhost:5000] (http://localhost:5000) in your browser.
+Open [http://localhost:5000](http://localhost:5000) in your browser.
 
 In main page you can see the latest articles.
